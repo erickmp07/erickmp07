@@ -10,6 +10,7 @@ Passionate about technologies, books, series, education, soccer and samba.
 
 Below you can find some technologies that I have been using.
 
+<br>
 Programming languages:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="32" height="32"/>
@@ -20,40 +21,40 @@ Programming languages:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="32" height="32"/>
 </p>
-
+<br>
 Frameworks:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="32" height="32" style="background-color:white" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="32" height="32" style="background-color:white"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="32" height="32" />
 </p>
-
+<br>
 Front-end:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="32" height="32" style="background-color:white" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" title="CSS3" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="32" height="32"/>
 </p>
-
+<br>
 Back-end:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="32" height="32" style="background-color:white" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express" width="32" height="32" style="background-color:white"/>
 </p>
-
+<br>
 Databases:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="32" height="32"/>
 </p>
-
+<br>
 Package Managers:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" title="Yarn" width="32" height="32"/>
 </p>
-
+<br>
 Infrastructure:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="32" height="32"/>
