@@ -11,7 +11,7 @@ Passionate about technologies, books, series, education, soccer and samba.
 Below you can find some technologies that I have been using.
 
 <br>
-<table style="border:none;margin:0;padding:0">
+<table cellspacing="0" cellpadding="0" style="border:none;margin:0;padding:0">
     <tr style="border:none;margin:0;padding:0">
         <td style="border:none;margin:0;padding:0">Programming languages:</td>
         <td style="border:none;margin:0;padding:0">
