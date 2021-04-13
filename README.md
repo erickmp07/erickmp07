@@ -11,29 +11,10 @@ Passionate about technologies, books, series, education, soccer and samba.
 Below you can find some technologies that I have been using.
 
 <br>
-<style>
-    * {
-        margin: 0;
-        padding: 0;
-    }
-    table {
-        margin: 0;
-        padding: 0;
-    }
-    tr {
-        margin: 0;
-        padding: 0;
-    }
-    td {
-        margin: 0;
-        padding: 0;
-    }
-</style>
-
-<table>
-    <tr>
-        <td>Programming languages:&nbsp;</td>
-        <td>
+<table style="border:none;margin:0;padding:0">
+    <tr style="border:none;margin:0;padding:0">
+        <td style="border:none;margin:0;padding:0">Programming languages:</td>
+        <td style="border:none;margin:0;padding:0">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="32" height="32"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="32" height="32" style="background-color:white"/>
