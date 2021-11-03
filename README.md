@@ -29,6 +29,7 @@ Below you can find some technologies that I have been using.
     <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="32" height="32" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="32" height="32" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Phoenix" title="Phoenix" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" title="Django" width="32" height="32" />
 </div>
 <p style="margin:0;padding:0">Front-end:</p>
 <div style="inline-block;margin:0;padding:0">
