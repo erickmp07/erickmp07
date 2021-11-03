@@ -1,6 +1,6 @@
 # Erick Macedo Pinto
 
-Software Engineer
+Computer Engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/erickmp07?label=Followers&logo=github&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;
 [![Microsoft Badge](https://img.shields.io/badge/-erimacedo__92@hotmail.com-0078D4?style=flat-square&logo=microsoft&logoColor=white&link=mailto:erimacedo_92@hotmail.com)](mailto:erimacedo_92@hotmail.com)&nbsp;&nbsp;&nbsp;
