@@ -31,6 +31,7 @@ Below you can find some technologies that I have been using.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="32" height="32" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Phoenix" title="Phoenix" width="32" height="32" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" title="Django" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="Flutter" title="Flutter" width="32" height="32" />
 </div>
 <p style="margin:0;padding:0">Front-end:</p>
 <div style="inline-block;margin:0;padding:0">
