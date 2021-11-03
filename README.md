@@ -21,7 +21,8 @@ Below you can find some technologies that I have been using.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" title="Elixir" width="32" height="32" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//r/r-original.svg" alt="R" title="R" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="32" height="32" />
 </div>
 <p style="margin:0;padding:0">Frameworks:</p>
 <div style="inline-block;margin:0;padding:0">
