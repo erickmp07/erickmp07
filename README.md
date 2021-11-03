@@ -3,7 +3,7 @@
 Software Engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/erickmp07?label=Followers&logo=github&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;
-[![Microsoft Badge](https://img.shields.io/badge/-erickmacedo__92@hotmail.com-0078D4?style=flat-square&logo=microsoft&logoColor=white&link=mailto:erimacedo_92@hotmail.com)](mailto:erimacedo_92@hotmail.com)&nbsp;&nbsp;&nbsp;
+[![Microsoft Badge](https://img.shields.io/badge/-erimacedo__92@hotmail.com-0078D4?style=flat-square&logo=microsoft&logoColor=white&link=mailto:erimacedo_92@hotmail.com)](mailto:erimacedo_92@hotmail.com)&nbsp;&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-Erick%20Macedo%20Pinto-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-macedo-pinto/)](https://www.linkedin.com/in/erick-macedo-pinto/)
 
 Passionate about technologies, books, series, education, soccer and samba.
