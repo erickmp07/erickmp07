@@ -20,13 +20,14 @@ Below you can find some technologies that I have been using.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" title="Elixir" width="32" height="32">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" title="Elixir" width="32" height="32" />
 </div>
 <p style="margin:0;padding:0">Frameworks:</p>
 <div style="inline-block;margin:0;padding:0">
     <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="32" height="32" />
     <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="32" height="32" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Phoenix" title="Phoenix" width="32" height="32" />
 </div>
 <p style="margin:0;padding:0">Front-end:</p>
 <div style="inline-block;margin:0;padding:0">
